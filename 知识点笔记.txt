@@ -1,0 +1,70 @@
+/*6点-12点 6 <= x < 12*/
+.morning{
+  background-image: linear-gradient(to bottom, #5476FE, #6FB1FF);
+}
+/* 12点-19点 12 <= x < 19 */
+.day{
+  background-image: linear-gradient(to bottom, #FD7537, #FFAB53);
+}
+/*19点- 6点 12 <= x < 第二天6点  */
+.night{
+  background-image: linear-gradient(to bottom, #4B36FF, #B560FB);
+}
+
+webpack打包
+再使用其他编译apk平台
+
+chelizi123
+che_li_zi@163.com
+qyp123mvz
+
+gitbash基础命令
+
+  切换盘符
+  cd /d
+
+  查看文件
+  ls
+
+  清除历史
+  clear
+
+  创建文件
+  touch 文件路径
+
+  创建文件夹
+  mkdir 文件夹路径
+
+  删除文件
+  rm 文件路径
+
+  删除文件夹
+  rm -rf 文件夹路径
+  -r: 递归
+  -f: 强制
+
+  修改名称
+  mv 旧文件名称 新文件名称
+
+  移动文件
+  mv 旧文件路径 新文件路径
+
+  返回上一级
+  cd ..
+
+  返回上两级
+  cd ../..
+
+  查看文件内容
+  cat 文件路径
+
+  编辑文件
+  vim 文件路径
+  1、按键盘i键入编辑模式
+  2、通过键盘方向键移动鼠标光标，输入内容
+  3、
+    (1)按下esc，退出编辑模式, 输入:wq, 回车保存退出
+    (2)按下esc，退出编辑模式, 输入:q!, 回车退出不保存
+   
+
+  github注册账号
